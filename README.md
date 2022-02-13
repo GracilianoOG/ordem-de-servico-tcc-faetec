@@ -1,6 +1,6 @@
 # Instituição
 
-:school_satchel: [Faetec - RJ](www.faetec.rj.gov.br)
+:school_satchel: [Faetec - RJ](https://www.faetec.rj.gov.br/)
 
 :school: [ETE Paracambi - RJ](https://www.eteparacambi.com.br/)
 
@@ -13,8 +13,6 @@
 O presente projeto visa o desenvolvimento de um Sistema de Ordem de Serviços nomeado "LABTECINFO". O sistema terá finalidade de cadastrar e gerenciar ordens de serviços de uma empresa de manutenção de equipamentos de informática, e para isso, nós contamos com a presença de um profissional qualificado em SCRUM, que busca compreender as necessidades do cliente e como trabalhar para que a tecnologia da informação e comunicação empregada da melhor forma e assim trazer benefícios para a empresa.
 
 O sistema visa facilitar o desenvolvimento do dia-a-dia de toda a equipe sendo ela atendimento, laboratório, e gerência. O projeto visa criar um sistema no qual qualquer empresa de manutenção poderá utilizar, apropriando-se de todos os campos existentes no projeto, que será desenvolvido para o sistema operacional Windows, podendo ser compatível com outros sistemas operacionais, como o Linux.
-
-
 
 ## :man_technologist: Componentes do grupo
 
@@ -32,8 +30,6 @@ O sistema visa facilitar o desenvolvimento do dia-a-dia de toda a equipe sendo e
 
 * Sergio C. da Silva
 
-
-
 ## :dart: Divisão das tarefas
 
 * **Anna Carla**, **Larissa**, **Matheus** e **Weverton**:
@@ -50,8 +46,6 @@ O sistema visa facilitar o desenvolvimento do dia-a-dia de toda a equipe sendo e
 
 * **Gabriel** e **Igor**:
   * Desenvolvimento das telas e design da concepção visual do sistema.
-
-
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
@@ -78,15 +72,55 @@ O sistema visa facilitar o desenvolvimento do dia-a-dia de toda a equipe sendo e
 
 * iReport Designer (2014)
 
-
-
 ## :framed_picture: Imagens
 
 ### Diagramas
 
+Caso de uso
+
+<img src="_README/diagramas/caso-de-uso-projeto.png" alt="Diagrama de Caso de Uso" width=50%>
+
+Diagrama Entidade-Relacionamento
+
+<img src="_README/diagramas/der-projeto.png" alt="Diagrama DER" width=50%>
+
 ### Telas
 
+Tela de Login
 
+<img src="_README/telas/tela-login.png" alt="Tela de Login" width=50%>
+
+Tela Principal
+
+<img src="_README/telas/tela-principal.png" alt="Tela Principal" width=50%>
+
+Tela Sobre
+
+<img src="_README/telas/tela-sobre.png" alt="Tela Sobre" width=50%>
+
+Tela Cliente
+
+<img src="_README/telas/tela-cadastro-cliente.png" alt="Tela Cliente" width=50%>
+
+Tela Usuário
+
+<img src="_README/telas/tela-cadastro-usuario.png" alt="Tela Usuário" width=50%>
+
+Tela OS (Ordem de Serviço)
+
+<img src="_README/telas/tela-cadastro-os.png" alt="Tela OS" width=50%>
+
+Tela OS com conteúdo
+
+<img src="_README/telas/tela-cadastro-os-exemplo.png" alt="Tela OS preenchida" width=50%>
+
+Impressão de OS
+
+<img src="_README/telas/impressao-os.png" alt="Impressão de OS" width=50%>
+
+### Fim das imagens
+
+Se quiser ver as imagens com mais qualidade, peço que clique nas mesmas. Por hora, não vou postar tantas imagens para não "entulhar" o repositório, mas no geral, todo o trabalho feito está nas imagens.
 
 ## :pencil: Considerações
 
