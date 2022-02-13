@@ -78,45 +78,45 @@ O sistema visa facilitar o desenvolvimento do dia-a-dia de toda a equipe sendo e
 
 Caso de uso
 
-<img src="_README/diagramas/caso-de-uso-projeto.png" alt="Diagrama de Caso de Uso" width=50%>
+<img src="_README/diagramas/caso-de-uso-projeto.png" alt="Diagrama de Caso de Uso" width=60%>
 
 Diagrama Entidade-Relacionamento
 
-<img src="_README/diagramas/der-projeto.png" alt="Diagrama DER" width=50%>
+<img src="_README/diagramas/der-projeto.png" alt="Diagrama DER" width=60%>
 
 ### Telas
 
 Tela de Login
 
-<img src="_README/telas/tela-login.png" alt="Tela de Login" width=50%>
+<img src="_README/telas/tela-login.png" alt="Tela de Login" width=60%>
 
 Tela Principal
 
-<img src="_README/telas/tela-principal.png" alt="Tela Principal" width=50%>
+<img src="_README/telas/tela-principal.png" alt="Tela Principal" width=60%>
 
 Tela Sobre
 
-<img src="_README/telas/tela-sobre.png" alt="Tela Sobre" width=50%>
+<img src="_README/telas/tela-sobre.png" alt="Tela Sobre" width=60%>
 
 Tela Cliente
 
-<img src="_README/telas/tela-cadastro-cliente.png" alt="Tela Cliente" width=50%>
+<img src="_README/telas/tela-cadastro-cliente.png" alt="Tela Cliente" width=60%>
 
 Tela Usuário
 
-<img src="_README/telas/tela-cadastro-usuario.png" alt="Tela Usuário" width=50%>
+<img src="_README/telas/tela-cadastro-usuario.png" alt="Tela Usuário" width=60%>
 
 Tela OS (Ordem de Serviço)
 
-<img src="_README/telas/tela-cadastro-os.png" alt="Tela OS" width=50%>
+<img src="_README/telas/tela-cadastro-os.png" alt="Tela OS" width=60%>
 
-Tela OS com conteúdo
+Tela OS preenchida
 
-<img src="_README/telas/tela-cadastro-os-exemplo.png" alt="Tela OS preenchida" width=50%>
+<img src="_README/telas/tela-cadastro-os-exemplo.png" alt="Tela OS preenchida" width=60%>
 
 Impressão de OS
 
-<img src="_README/telas/impressao-os.png" alt="Impressão de OS" width=50%>
+<img src="_README/telas/impressao-os.png" alt="Impressão de OS" width=60%>
 
 ### Fim das imagens
 
@@ -128,4 +128,4 @@ Se quiser ver as imagens com mais qualidade, peço que clique nas mesmas. Por ho
 
 :no_entry: Nem todos os arquivos serão compartilhados, pois este projeto foi desenvolvimento por diversos alunos, com a participação do professor responsável. Este projeto está hospedado aqui apenas para caráter demonstrativo.
 
-:question: Qualquer pergunta é só falar comigo pelo meu LinkedIn fixado no meu perfil! :smile:
+:question: Qualquer dúvida é só falar comigo pelo meu LinkedIn fixado no meu perfil! :smile:
