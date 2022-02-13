@@ -1,6 +1,6 @@
 # Instituição
 
-:school_satchel: [Faetec - RJ](https://www.faetec.rj.gov.br/)
+:school_satchel: [Faetec - RJ](http://www.faetec.rj.gov.br/)
 
 :school: [ETE Paracambi - RJ](https://www.eteparacambi.com.br/)
 
